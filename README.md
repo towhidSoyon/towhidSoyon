@@ -80,9 +80,9 @@
 
 ### ✨ Featured Projects
 
-- 🔹 [AI Chat App with Groq API + Jetpack Compose]([https://github.com/towhidSoyon/your-chat-app-repo](https://github.com/towhidSoyon/GroqApp))
-- 🔹 [StudySmart](https://github.com/towhidSoyon/neptune-mobile-app](https://github.com/towhidSoyon/StudySmart))
-- 🔹 [Ktor-ToDo (Backend with ktor)]([https://github.com/towhidSoyon/your-cmp-demo-repo](https://github.com/towhidSoyon/ktor-ToDo))
+- 🔹 [AI Chat App with Groq API + Jetpack Compose](https://github.com/towhidSoyon/GroqApp)
+- 🔹 [StudySmart](https://github.com/towhidSoyon/StudySmart)
+- 🔹 [Ktor-ToDo (Backend with ktor)](https://github.com/towhidSoyon/ktor-ToDo)
 
 ---
 
