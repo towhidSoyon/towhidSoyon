@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/towhidSoyon/towhidSoyon/main/image.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/towhidSoyon/towhidSoyon/main/banner.png" alt="Banner" width="100%" height="180" />
 </p>
 
-
+---
 <h1 align="center">Hi 👋, I'm Towhid Soyon</h1>
 <h3 align="center">🚀 Android Developer | Kotlin & Jetpack Compose Enthusiast | Tech Explorer</h3>
 
