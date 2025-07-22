@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/towhidSoyon/towhidSoyon/main/image.png" alt="Banner" width="100%" height="180" />
+  <img src="https://raw.githubusercontent.com/towhidSoyon/towhidSoyon/main/image.png" alt="Banner" width="100%" height="280" />
 </p>
 
 ---
